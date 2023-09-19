@@ -1,0 +1,73 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Synthetic Biology"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Computational Biology"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Dynamics and Control"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ]
+  ],
+  "legacy_uid": "e3c14a64-4841-6cf8-0521-590661dc8eef",
+  "instructors": {
+    "content": [
+      "dfc445d5-d33f-ead7-1c20-04f15b24d3f3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f3c959d8-418d-34cd-dbc3-5a0f520ba738",
+    "website": "2-18-biomolecular-feedback-systems-spring-2015"
+  },
+  "course_title": "Biomolecular Feedback Systems",
+  "course_description": "This course focuses on feedback control mechanisms that living organisms implement at the molecular level to execute their functions, with emphasis on techniques to design novel systems with prescribed behaviors. Students will learn how biological functions can be understood and designed using notions from feedback control.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "2.180",
+  "primary_course_number": "2.18",
+  "course_image_thumbnail": {
+    "content": "6fbcc1a7-5004-ec48-578e-6b36084a7bcc",
+    "website": "2-18-biomolecular-feedback-systems-spring-2015"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Online Textbook",
+    "Projects"
+  ],
+  "site_uid": "5b128041-800d-4ebf-adc0-e8c7dd64fdae",
+  "site_short_id": "2.18-spring-2015",
+  "title": "Course Metadata"
+}
